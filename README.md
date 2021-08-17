@@ -1,6 +1,5 @@
 # Lung pneumonia classification with ResNet18! (PyTorch)
 ####
-## __This is a notebook of a PyTorch lung pneumonia classification with ResNet18!__ 
 ## The dataset is __[CoronaHack -Chest X-Ray-Dataset from Kaggle](https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset)__.
 ## Was built in __[Google Colab](https://colab.research.google.com/)__ environment, so make any adjustments needed for it to work on your machine.
 ## You can find code and detailed project analysis in __[Lung_pneumonia_classifier.ipynb](https://github.com/NikitaBezukhov/Pneumonia_classifier_ResNet18/blob/main/Lung_pneumonia_classifier.ipynb)__ notebook.
